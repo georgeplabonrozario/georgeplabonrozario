@@ -1,4 +1,3 @@
-# aboutme
 <!-- Replace YOUR_USERNAME with your GitHub username. Replace each REPO_LINK with the real repo URL. -->
 
 <div align="center">
