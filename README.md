@@ -55,12 +55,12 @@ Currently working on: RAG pipelines and MCP-based agent tools.
 | Project | Description | Built with |
 |---|---|---|
 | **[Career Bondhu](https://github.com/georgeplabonrozario/careerbondhu)** | Telegram career-consulting bot. Includes a CV review pipeline, a referral system, a `/rewrite` flow with inline-button confirmation, and an admin dashboard with live payment verification. | n8n, Supabase, Groq, Claude, PDF.co |
+| **[AI Video Production Pipeline](https://github.com/georgeplabonrozario/You-Tube-Automation-Production-Pipeline)** | Topic theke script, images, voiceover, merge ar YouTube upload, ek flow te. Telegram alert on success/failure. | n8n, OpenAI, ElevenLabs, fal.ai (Kling), Google Drive, YouTube API |
 | **[Nepo Mart BD Messenger Automation](REPO_LINK)** | AI-assisted sales and support replies for a Bangladeshi e-commerce page on Facebook Messenger. | n8n, Meta Graph API |
-| **[AI Travel Assistant (MCP)](REPO_LINK)** | Two n8n workflows. One exposes five custom tools through an MCP Server Trigger, the other is a Claude agent that uses them. | n8n, Claude, Apify, OpenWeatherMap, Google Sheets |
+| **[Excel Data-Cleaning Workflow](REPO_LINK)** | One Code node that handles duplicates, validation, date formats and a summary report for customer data. | n8n |
 | **[LinkedIn Job Alert Automation](REPO_LINK)** | Scrapes job posts into Google Sheets, then an AI agent writes a short hiring-trend summary. | n8n, Apify, Groq |
 | **[SmileCare Email Automation](REPO_LINK)** | Creates HTML appointment emails for a dental clinic. The current date is injected live so weekdays are never wrong. | n8n, Groq |
 | **[CV-Tailor Skill](REPO_LINK)** | A custom Claude skill that scores a CV against a job post and rewrites the summary and bullets to fit. | Claude Skills |
-| **[Excel Data-Cleaning Workflow](REPO_LINK)** | One Code node that handles duplicates, validation, date formats and a summary report for customer data. | n8n |
 
 ## Education and Certifications
 
